@@ -1,3 +1,4 @@
 en
 conf t
 hostname ISP
+ip domain name wsc2024.fr
